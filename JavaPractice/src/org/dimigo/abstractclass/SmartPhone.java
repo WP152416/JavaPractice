@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.dimigo.asbstractclass;
+package org.dimigo.abstractclass;
 
 /**
  * <pre>
